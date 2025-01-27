@@ -17,6 +17,10 @@ Interpreted means there is a program on your computer, called an interpreter, th
 
 Python interoperates well with C. We won't be touching these capabilities in this class, but you can call code written in C and C++ from Python relatively easily. This lends itself well to writing high level code that has good performance.
 
+Python is often used in data science. It has extensive library support for collating, analyzing, and visualizing data.
+
+For my purposes though, I use it for writing scripts. If I want to automate a complex task but don't want to write a whole dedicated program a few Python scripts are the way to go.
+
 ## Data Types
 
 - Int
